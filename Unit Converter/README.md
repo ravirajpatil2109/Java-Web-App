@@ -26,7 +26,7 @@ The project consists of **three separate web pages**:
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling of the web pages.
 - **JavaScript**: Handling user inputs and performing conversion calculations.
-- **Backend Language**: (Specify here the backend language used, e.g., PHP, Node.js, etc., or if it's purely frontend.)
+- **Backend Language**: Purely frontend.
 
 ## Usage
 
